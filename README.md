@@ -1,5 +1,7 @@
 # Amazon-bot
 
+Create a bot using AWS and Python
+
 ---
 
 ## Technologies
@@ -10,8 +12,7 @@ This program was created using Python.
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/Business_loan_qualifier_app.git
-
+git clone https://github.com/chance2424/Amazon-bot.git
 ---
 
 ## Contributors
